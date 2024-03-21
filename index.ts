@@ -1,3 +1,3 @@
 let num ="mariya"
-
-console.log(num)
+let num2 ="faisal"
+console.log(num+' '+num2)
